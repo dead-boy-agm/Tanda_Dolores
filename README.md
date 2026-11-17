@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tanda Doloreña
 
 Sistema de ahorro rotativo vecinal (tanda) construido con TDD en Flutter.
@@ -23,3 +24,7 @@ Si `flutter create .` genera `test/widget_test.dart`, bórralo: hace referencia 
 - `lib/logica/`: ServicioTanda y enums de resultado (Dart puro, sin imports de Flutter)
 - `lib/presentation/`: TandaScreen (interfaz animada)
 - `test/servicio_tanda_test.dart`: 11 pruebas de las rondas TDD más la de integración
+=======
+# Tanda_Dolores
+Actividad 2
+>>>>>>> a442556a4157bb3ece7126758bc08eaffcb8c2d3
